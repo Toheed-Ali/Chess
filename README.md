@@ -67,7 +67,7 @@ This console-based chess game provides a complete chess experience with all stan
 
 - **Unicode Chess Pieces**: 
   - White: ♔ ♕ ♖ ♗ ♘ ♙
-  - Black: ♚ ♛ ♜ ♝ ♞ ♙
+  - Black: ♚ ♛ ♜ ♝ ♞ **♙**
 - **Box-Drawing Board**: Clean visual representation with borders and grid
 - **Board Coordinates**: Row numbers (1-8) and file letters (a-h) for easy reference
 - **Turn Indicator**: Clear display of whose turn it is
